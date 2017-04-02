@@ -1,0 +1,18 @@
+class RunSessionScriptsJob < ApplicationJob
+  queue_as :default
+
+  def perform(session_id)
+    files = Dir.entries(Rails.root.join('public', 'usercontent', session_id))
+    if files.count > 0
+      for f in files
+        ext = "" #todo
+        times = Array.new
+        for i in 0..2
+          startime = Time.new
+          output = `python3 #{path}/parse.py`
+          times.push(Time.new - starttime)        
+        end
+      end
+    end
+  end
+end

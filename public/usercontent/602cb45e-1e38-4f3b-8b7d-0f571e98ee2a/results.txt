@@ -1,0 +1,74 @@
+File name: Anne_BannerProgram.py, File size: 1425 bytes, Average run time: 35ms, Output:
+****** *******
+* TJ * * III *
+****** *******
+
+File name: Ben_BannerProgram.py, File size: 366 bytes, Average run time: 33ms, Output:
+input name1 then name2
+******  ****************************
+* TJ *  * Christopher Thompson III *
+******  ****************************
+
+File name: Charley_BannerProgram.py, File size: 253 bytes, Average run time: 33ms, Output:
+
+ ******** **** ***************** 
+ *Python* *12* *Python is great* 
+ ******** **** ***************** 
+
+
+File name: George_BannerProgram.py, File size: 260 bytes, Average run time: 37ms, Output:
+*********************************
+* TJ | Christopher Thompson III *
+*********************************
+
+File name: Isaac_BannerProgram.py, File size: 254 bytes, Average run time: 35ms, Output:
+*********************************
+* TJ | Christopher Thompson III *
+*********************************
+File name: Jacob_BannerProgram.py, File size: 193 bytes, Average run time: 35ms, Output:
+******     ****************************
+* TJ *     * Christopher Thompson III *
+******     ****************************
+None
+
+File name: Kacey_BannerProgram.py, File size: 352 bytes, Average run time: 37ms, Output:
+*********************************
+* TJ | Christopher Thompson III *
+*********************************
+
+File name: Leo_BannerProgram.py, File size: 567 bytes, Average run time: 33ms, Output:
+*********************************
+* TJ | Christopher Thompson III *
+*********************************
+None
+
+File name: Premos_BannerProgram.py, File size: 295 bytes, Average run time: 35ms, Output:
+*********************************
+* TJ | Christopher Thompson III *
+*********************************
+
+File name: Richard_BannerProgram.py, File size: 344 bytes, Average run time: 33ms, Output:
+*******   **************************** 
+ * TJ  *   * Christopher Thompson III * 
+ *******   ****************************
+
+File name: Simon2_BannerProgram.py, File size: 404 bytes, Average run time: 34ms, Output:
+******   ****************************   
+* TJ *   * Christopher Thompson III *   
+******   ****************************   
+
+File name: Simon_BannerProgram.py, File size: 349 bytes, Average run time: 35ms, Output:
+******   ****************************
+* TJ *   * Christopher Thompson III *
+******   ****************************
+
+File name: Zach2_BannerProgram.py, File size: 698 bytes, Average run time: 33ms, Output:
+***** ***************************
+*TJ * * Christopher Thompson III*
+***** ***************************
+
+File name: Zach_BannerProgram.py, File size: 677 bytes, Average run time: 34ms, Output:
+**** ************************** 
+*TJ* *Christopher Thompson III* 
+**** ************************** 
+

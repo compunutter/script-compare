@@ -1,0 +1,13 @@
+class ResultsController < ApplicationController
+  def index 
+    @sessions = Dir.entries(Rails.root.join('public', 'usercontent'))
+      .select {|f| f.basename.include?('-')}
+  end
+
+  def showsessiondetails
+    session_id = params[:id]
+    file = File.open(Rails.root.join('public', 'usercontent', session_id,
+                                     'results.txt'))
+    @results = file.read
+   end
+end

@@ -1,0 +1,12 @@
+<h1>Sessions/h1>
+<table>
+  <tr>
+    <th>session id</th>
+   </tr>
+
+  <% @sessions.each do |session| %>
+    <tr>
+      <td><a href='<%= session %>'><%= session %></a></td>
+    </tr>
+   <% end %>
+ </table>
